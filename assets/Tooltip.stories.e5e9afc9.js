@@ -1,0 +1,2 @@
+import{e as r}from"./index.d9650e8f.js";import{j as t}from"./jsx-runtime.b703b004.js";import"./index.2aa918ec.js";import"./iframe.40947dcd.js";import"./index.89f3dfa8.js";const l={title:"Surfaces/Tooltip",component:r,args:{children:"21 de Outubro - Indispon\xEDvel"},decorators:[o=>t("div",{style:{display:"flex"},children:o()})]},m={},d=["Primary"];export{m as Primary,d as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories.e5e9afc9.js.map

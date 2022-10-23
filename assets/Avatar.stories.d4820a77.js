@@ -1,0 +1,2 @@
+import{A as t}from"./index.d9650e8f.js";import"./index.2aa918ec.js";import"./iframe.40947dcd.js";import"./index.89f3dfa8.js";import"./jsx-runtime.b703b004.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/gabriel-nt.png",alt:"Gabriel Teixeira"},argTypes:{src:{description:"Source image url ",control:{type:"text"}}}},c={},p={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,p as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.d4820a77.js.map
